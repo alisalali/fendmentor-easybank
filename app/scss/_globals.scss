@@ -16,7 +16,7 @@ body{
     color: $GrayishBlue;
     font-family: 'Public Sans', sans-serif;
     &.noscroll{
-        overflow: hidden;
+        overflow: hidden; 
     }
 }
 a,a:visited,a:hover{
